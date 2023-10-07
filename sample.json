@@ -1,0 +1,113 @@
+[
+    {
+        "title": "UI Developer",
+        "desc": "Convert figma designs into web pages, and make sure that everything is responsive.",
+        "tools": [
+            "HTML",
+            "CSS",
+            "Git",
+            "GitHub",
+            "Figma"
+        ]
+    },
+    {
+        "title": "JavaScript Frontend Developer",
+        "desc": "Fix frontend related bugs and add new features to the website.",
+        "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git",
+            "GitHub"
+        ]
+    },
+    {
+        "title": "React.js Developer",
+        "desc": "Fix frontend related bugs and add new features to the website.",
+        "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Git",
+            "GitHub"
+        ]
+    },
+    {
+        "title": "Data Analyst",
+        "desc": "You will be given a small dataset and a set of questions to answer using that data. You will be expected to use your data analysis skills to answer the questions and present your findings in a clear and concise manner.",
+        "tools": [
+            "Python",
+            "Numpy",
+            "Pandas",
+            "Data Cleaning in Python",
+            "Data Visualization",
+            "Basic Knowledge of Statistics"
+        ]
+    },
+    {
+        "title": "UI/UX Designer",
+        "desc": "Turn ideas into UI/UX designs, and redesign existing websites.",
+        "tools": [
+            "Design Tools",
+            "UI Design",
+            "UX Design"
+        ]
+    },
+    {
+        "title": "Mobile Developer",
+        "desc": "Convert UI/UX figma designs into fully functional mobile applications.",
+        "tools": [
+            "Dart",
+            "Java",
+            "Kotlin",
+            "React Native",
+            "or any alternative",
+            "Git",
+            "GitHub",
+            "Figma"
+        ]
+    },
+    {
+        "title": "Console Programmer",
+        "desc": "Build console applications with your favorite programming language to solve certain problems.",
+        "tools": [
+            "C++",
+            "Python",
+            "C",
+            "C#",
+            "Java",
+            "or any programming language"
+        ]
+    },
+    {
+        "title": "Web Scraping Specialist",
+        "desc": "Write programs that can harvest/extract data from certain websites.",
+        "tools": [
+            "JavaScript",
+            "Python",
+            "or any programming language"
+        ]
+    },
+    {
+        "title": "Graphic Designer",
+        "desc": "Design logos, banners, and social media posts.",
+        "tools": [
+            "Photoshop",
+            "Pixlr",
+            "Adobe Spark",
+            "or any design tool"
+        ]
+    },
+    {
+        "title": "Backend Developer",
+        "desc": "Build backend services, connect to databases, and integrate with APIs.",
+        "tools": [
+            "PHP & Laravel",
+            "Python & Django",
+            "C# & .Net",
+            "JavaScript & Express",
+            "or any tech stack"
+        ]
+    }
+]
